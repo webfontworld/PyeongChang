@@ -38,13 +38,13 @@
 <pre>
 @font-face {
     font-family: 'PyeongChangPeace';
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Regular.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Regular.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Regular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Regular.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Light.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Light.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/PyeongChang/PyeongChangPeace-Light.ttf') format("truetype");
     font-display: swap;
 } 
 @font-face {
